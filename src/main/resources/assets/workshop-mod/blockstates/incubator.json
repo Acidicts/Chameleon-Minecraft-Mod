@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "workshop-mod:block/incubator"
+    }
+  }
+}

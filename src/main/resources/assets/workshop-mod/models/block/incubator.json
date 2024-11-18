@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "workshop-mod:block/incubator",
+    "south": "workshop-mod:block/incubator",
+    "east": "workshop-mod:block/incubator",
+    "west": "workshop-mod:block/incubator",
+    "up": "workshop-mod:block/incubator_top",
+    "down": "workshop-mod:block/incubator_bottom"
+  }
+}
