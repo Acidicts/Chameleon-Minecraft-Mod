@@ -1,5 +1,7 @@
 package io.github.acidicts.item;
 
+import io.github.acidicts.block.entity.ModEntities;
+import io.github.acidicts.block.entity.custom.ChameleonEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
