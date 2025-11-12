@@ -1,7 +1,8 @@
 This is a mod where you can make the tools to hatch an egg which you craft into a chameleon that lives in your inventory!
 
-Modrinth Page [here](https://modrinth.com/mod/chameleon_mod)
-[Fabric](https://fabricmc.net/) Mod
+## Modrinth Page [here](https://modrinth.com/mod/chameleon_mod)
+---
+#### [Fabric](https://fabricmc.net/) Mod
 
 In this mod you can make and hatch an chameleon egg to get a Chameleon, this chameleon talks to you but has the memory of a goldfish (couple seconds before forgetting) take care of you new friend protect it from your friends, and Enjoy!
 
